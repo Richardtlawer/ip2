@@ -13,14 +13,24 @@
 		
 	<body>
 		
-		<!--<div class="container">
-		 <div class="jumbotron">-->
+		<div class="container">
+		 <div class="jumbotron">
 		<div class="row">
-		 <div class="col-md-1"> <img src="ip2/assets/logoBig.png" alt="Restaurant Logo" style="width:100%;"></div>
-                  <!--<br>
-		  <h1><em><strong>King Richard Restaurant </strong></em></h1>
+		 <div class="col-md-1"> <img src="ip2/assets/logoBig.png" alt="Restaurant Logo" >
+		</div>
+		  
+                 
+		<div class="row">
+		  <div class="col-md-3"><p>Happy Hour</p><p>Party Time</div>
+		  <div class="col-md-3"><img src="ip2/assets/foodtop/breakfast.jpg">Breakfast</div>
+		  <div class="col-md-3"><img src="ip2/assets/foodtop/lunch.jpg">Lunch</div>
+		  <div class="col-md-3"><img src="ip2/assets/foodtop/dinner.jpg">Dinner</div>
+		</div>
+		<img src="ip2/assets/fastFood2.jpg">
+		<img src="ip2/assets/fastFood1.jpg">
+		  <h1><em><strong> </strong></em></h1>
 		
-		  <h2> <em>We Serve You First and Best</em></h2>
+		  <h2> <em></em></h2>
 		  <p> </p>
 	          <p><em> <em/> <strong> </strong> </p>
 		</div>
