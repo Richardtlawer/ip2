@@ -19,12 +19,14 @@ ul {
 	
 }
 
-img {
-   	float:left;
-	width:410px;
-	padding:20px;
-	border:2px solid green;
-	margin:2px;
+body{
+	
+        image-align:center;   	
+	width:auto;
+	padding:;
+	border:;
+	margin:;
+        background-image:url('../ip2/assets/backgrounds/landing.jpg');
 }
 
   .row{ 
@@ -35,7 +37,8 @@ img {
 		margin:2px;
                 background-color:orange;
 }
-span{
+span{	padding:2px;
+	border:3px solid green;
 	background-color:yellow;
 }
 

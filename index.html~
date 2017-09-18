@@ -13,21 +13,21 @@
 		
 	<body>
 		
-		<div class="container">
-		 <div class="jumbotron">
-		<div class="row">
-		 <div class="col-md-1"> <img src="ip2/assets/logoBig.png" alt="Restaurant Logo" >
-		</div>
+		
+		 
+		
+		  <img id="logoBig" src="ip2/assets/logoBig.png" alt="Restaurant Logo" >
+		
 		  
                  
-		<div class="row">
-		  <div class="col-md-3"><p>Happy Hour</p><p>Party Time</div>
-		  <div class="col-md-3"><img src="ip2/assets/foodtop/breakfast.jpg">Breakfast</div>
-		  <div class="col-md-3"><img src="ip2/assets/foodtop/lunch.jpg">Lunch</div>
-		  <div class="col-md-3"><img src="ip2/assets/foodtop/dinner.jpg">Dinner</div>
-		</div>
-		<img src="ip2/assets/fastFood2.jpg">
-		<img src="ip2/assets/fastFood1.jpg">
+		
+		  <p>Happy Hour</p><p>Party Time</div>
+		  <img id="breakfast" src="ip2/assets/foodtop/breakfast.jpg">
+		  <img id="lunch" src="ip2/assets/foodtop/lunch.jpg">
+	          <img id="dinner" src="ip2/assets/foodtop/dinner.jpg">
+		
+		<img id="fastFood2" src="ip2/assets/fastFood2.jpg">
+		<img id="fastFood1" src="ip2/assets/fastFood1.jpg">
 		  <h1><em><strong> </strong></em></h1>
 		
 		  <h2> <em></em></h2>
