@@ -14,28 +14,150 @@
 	<body>
 		
 		
-		 
-		
-		  <img id="logoBig" src="ip2/assets/logoBig.png" alt="Restaurant Logo" >
-		
-		  
+          <div class="break">		 
+	   <p><hr></hr></p>
+           <p><hr></hr></p>
+	   <p><hr></hr></p>
+           
+	   <img class="logoBig" src="ip2/assets/logoBig.png" alt="Restaurant Logo" >
+	   <p>We Provide The Best Food</p>
+           <p>At <strong>The Right Price</strong></p> 	
+	  
+         </div>	  
                  
-		
-		  <p>Happy Hour</p><p>Party Time</div>
-		  <img id="breakfast" src="ip2/assets/foodtop/breakfast.jpg">
-		  <img id="lunch" src="ip2/assets/foodtop/lunch.jpg">
-	          <img id="dinner" src="ip2/assets/foodtop/dinner.jpg">
-		
-		<img id="fastFood2" src="ip2/assets/fastFood2.jpg">
-		<img id="fastFood1" src="ip2/assets/fastFood1.jpg">
-		  <h1><em><strong> </strong></em></h1>
-		
-		  <h2> <em></em></h2>
-		  <p> </p>
-	          <p><em> <em/> <strong> </strong> </p>
-		</div>
+	   <div class="row">
+		   <div class="col-md-3">
+		    <p class="happy">Happy Hour</p><p class="party">Party Time</p>
+		   </div>
+
+		   <div class="col-md-3">
+		          <p>Breakfast</p>
+		         <img id="breakfast" src="ip2/assets/foodtop/breakfast.jpg">
+		   </div>
+			 
+                   <div class="col-md-3">
+		      <p>Lunch</p>
+		      <img id="lunch" src="ip2/assets/foodtop/lunch.jpg">    
+                       </div>
+
+		  <div class="col-md-3">
+                       <p>Dinner</p>
+	               <img id="dinner" src="ip2/assets/foodtop/dinner.jpg">
+		  </div>
+
+	</div>	 
+		       
+		 
+
+       		      <div class="plates">
+	
+
+	       <p><img id="fastFood1" src="ip2/assets/fastFood1.jpg"></p>
+		       <p><img id="fastFood2" src="ip2/assets/fastFood2.jpg"></p>
+                     </div>
+                     <p><div class="fastFood">
+                      <p><strong><em>Fast Food</em></strong></p>
+		      <p><em>You will love our delicious fast food</em></p>
+	              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dapibus ut dolor nec laoreet. Proin feugiat laoreet risus ut venenatis. Etiam fringilla eget leo pellentesque rhoncus. Nam in orci posuere, elementum tortor rhoncus, pharetra augue. Phasellus eget tempor nulla. In pretium metus lacus, id ultricies lorem tristique eu. Praesent eleifend velit a metus congue hendrerit. Proin pulvinar non ante vitae ultrices. Aliquam eleifend suscipit leo, in laoreet erat vestibulum sed. Nam ut erat semper, sodales magna pretium, fringilla nisi. Ut sodales quam et dolor dictum volutpat. Cras at pharetra orci. Morbi a libero id sem consequat porta eu in felis. Sed vehicula, justo ut maximus vulputate, tellus ipsum gravida nisl, eu feugiat est libero eget quam. Aenean ac ornare diam, sed pellentesque ipsum. </p>
+                       <p class="view">View Gallery-></p>
+                      </div></p><br><br><br><br><br><br><br>
+		      <p><div class="drinks">
+			<p><em><strong>Drinks</strong></em></p>
+			<p>We alse produce delicious drinks</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dapibus ut dolor nec laoreet. Proin feugiat laoreet risus ut venenatis. Etiam fringilla eget leo pellentesque rhoncus. Nam in orci posuere, elementum tortor rhoncus, pharetra augue. Phasellus eget tempor nulla. In pretium metus lacus, id ultricies lorem tristique eu. Praesent eleifend velit a metus congue hendrerit. Proin pulvinar non ante vitae ultrices. Aliquam eleifend suscipit leo, in laoreet erat vestibulum sed. Nam ut erat semper, sodales magna pretium, fringilla nisi. Ut sodales quam et dolor dictum volutpat. Cras at pharetra orci. Morbi a libero id sem consequat porta eu in felis. Sed vehicula, justo ut maximus vulputate, tellus ipsum gravida nisl, eu feugiat est libero eget quam. Aenean ac ornare diam, sed pellentesque ipsum.</p> 
+			<p class="view">View Gallery-></p>
+			</div></p>
+			<div class="drink">
+			   <img src="ip2/assets/drink1.jpg">
+                        </div><br><br>
+                        <div class="bowlBack">
+			 <div class="container">
+			  <div class="row">
+
+			    <div class="col-md-3">
+                              <img src="ip2/assets/fastfood/chikenBurger.jpg">
+			    </div>
+
+                            <div class="col-md-3">
+				<img src="ip2/assets/fastfood/beefBurger.jpg">
+
+			    </div>	
+
+                            <div class="col-md-3">
+				<img src="ip2/assets/fastfood/chikenBurger.jpg">
+
+			    </div>
+			   
+  			    <div class="col-md-3">
+				<img src="ip2/assets/fastfood/chikenPizza.jpg">
+
+			    </div>
+			    
+						
+                         </div>
+		        </div>
+	     	</div>
+
+
+               <div class="jumbotron">
+                <div class="container">
+
+                <div class="row">
+                 <div class="col-md-6">
+                  <p class="passage2"><h2 class="o1">Our Happy Customers</h2> </p>
+                  <p class="passage1"><h3>George Richard</h3> </p>
+                  <p class="passage2"><h4>Great food! Menu is awesome,the foods are not only great but</h4> </p>
+                  <p class="passage2"><h4>  also in the right price. I highly recommend them :)</h4> </p>
+                  
+                 <p class="pics">  <div class="row"> <div class="col-md-1"> <a class="lessT" href=""> < </a> </div> <div class="col-md-3"> <img src="ip2/assets/customers/p1.png"></div>
+                 <div class="col-md-4"> <img src="ip2/assets/customers/p2.png"></div>
+                 <div class="col-md-3"> <img src="ip2/assets/customers/p3.png"></div><div class="col-md-1"><a class="greaterT" href=""> ></a> 
+                </div></div> </p>               
+    
+                 </div>
+
+                 <div class="col-md-6">
+                  <p class="passage1"><h2 class="a1">About  Menu</h2> </p>
+                  <p class="passage2"><h3>We are a menu a little team of 7 members</h3> </p>
+                  <p class="passage2"><h4>mnh km kkll hk ,mmll kk hkkk jj,khh </h4> </p>
+                  <p class="passage2"><h4>hhhhlnlkjl jhh hjii jiju huu jii iij h</h4> </p>
+                  <p class="passage2"><h4>ydgg hgdygy hd uhdy uu uynn ih </h4> </p>
+                  <p class="passage2"><h4>ggg gi nchohh i houui hhoh hi hh hjij </h4> </p>
+                 </div>
+
+               
+
+                </div>
+
+ 
+               
+                
+                </div>
+
+               </div>
+      <div class="subscribe">
+        <p> <h1> Get our daily food items delivered to your e-mail</h1> </p>  
+        <div class="row">
+           <div class="col-md-8"> Your email</div><div class="col-md-4"><p class="subP"> Subscribe</p></div>
+        </div>
+
+   
+      </div>
+   <div class="footer">
+   <p><img src="ip2/assets/footerlogos/logo_white.png"><h1 class="menu">MENU</h1></p>
+   <p>Thats What We Are</p>
+   <p><div class="row"><div class="col-md-4"><img src="ip2/assets/footerlogos/logo_white.png"></div><div class="col-md-4"><img src="ip2/assets/footerlogos/logo_white.png"></div><div class="col-md-4"><img src="ip2/assets/footerlogos/logo_white.png"></div></div></p>
+   <p>2016 Menu Restaurant</p>
+   
+   
+
+  </div>
+
+
+
+
 	</body>
 
 
 
-</html>
+</html

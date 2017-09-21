@@ -1,25 +1,10 @@
-h1 {
-    	color:blue;
-        text-align:center;
+
+.plates{
+       float:left;
 }
 
-h2 {
-	color:green;
-	font-style:italic;
-	text-align:center;
-}
 
-p {
-	font-family:sans-serif;
-	background-color:orange;
-}
-
-ul {
-	line-height:40px;
-	
-}
-
-body{
+.break{
 	
         text-align:center;   	
 	width:auto;
@@ -29,19 +14,108 @@ body{
         background-image:url('../ip2/assets/backgrounds/landing.jpg');
 }
 
-  .row{ 
-		
-		
-		padding:10px;
-		border:2px solid blue;
-		margin:2px;
-                background-color:orange;
-}
-span{	padding:2px;
-	border:3px solid green;
-	background-color:yellow;
+
+.happy{
+        text-align:center;
 }
 
-.menu{
-	background-color:yellow;
+
+.party{
+       text-align:center;
+
+
+}
+
+
+
+.fastFood{
+}
+
+.view{
+      border:red solid 2px;
+      color:red;
+}
+
+
+.drinks{
+        float:left;
+        width:400px;
+}
+
+.drink{
+       float:;
+       width:;
+}
+
+
+.bowlBack{
+	background-image:url('../ip2/assets/backgrounds/foodsBg.jpg');
+         
+
+}
+.jumbotron{
+
+          background-color:white;
+}
+container{
+          
+          background-color:white;
+}
+.o1 {
+
+    color:red;
+    text-align:center:
+}
+.a1 {
+
+    color:red;
+    text-align:center:
+}
+
+.col-md-1{ 
+         color:red; 
+
+}
+
+
+.lessT{ 
+         color:red; 
+
+}
+
+.greaterT{ 
+         color:red; 
+
+}
+
+
+.subP{ 
+         background-color:red; 
+
+}
+
+
+.subscribe {
+	background-image:url('../ip2/assets/backgrounds/subscribe.jpg');
+        color:white;
+         
+
+}
+
+.col-md-8{
+	border:2px solid white;
+
+}
+
+.col-md-4{ 
+          border:2px solid white;
+          background-color:;
+
+
+}
+
+.footer{
+        background-color:red;
+        color:white;
+
 }
